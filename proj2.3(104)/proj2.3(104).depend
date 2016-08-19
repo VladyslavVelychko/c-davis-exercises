@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1391009498 source:d:\projects\proj2.3(104)\main.cpp
+	<iostream>
+	<cmath>
+	<locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1391172182 source:d:\projects\3.1(111)\main.cpp
+	<iostream>
+	<cstdlib>
+	<locale.h>
+

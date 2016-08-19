@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1390757446 source:d:\projects\1mod13(68)\main.cpp
+	<iostream>
+	<locale.h>
+
